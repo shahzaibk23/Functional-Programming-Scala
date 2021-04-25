@@ -1,4 +1,4 @@
-package helo
+package Assignment1
 
 import com.sun.net.httpserver.Authenticator.{Failure, Success}
 import javafx.scene.effect.FloatMap

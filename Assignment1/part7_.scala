@@ -1,4 +1,4 @@
-package helo
+package Assignment1
 import java.util.concurrent.TimeUnit
 import scala.concurrent
 import scala.concurrent.{Future, Await}

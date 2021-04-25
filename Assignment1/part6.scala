@@ -1,4 +1,4 @@
-package helo
+package Assignment1
 
 import scala.util.Try
 

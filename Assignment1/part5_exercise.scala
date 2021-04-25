@@ -1,4 +1,4 @@
-package helo
+package Assignment1
 
 class part5_exercise extends App {
 

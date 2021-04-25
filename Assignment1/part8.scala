@@ -1,4 +1,4 @@
-package helo
+package Assignment1
 
 object part8 extends App {
 

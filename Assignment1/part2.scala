@@ -1,4 +1,4 @@
-package helo
+package Assignment1
 
 object part2 extends App{
   var i: Int  = 4
